@@ -32,4 +32,4 @@ export const ThemeToggle = () => {
       <div className="swap-off">😇</div>
     </label>
   );
-};
+}
